@@ -1,0 +1,15 @@
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\products.csv
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\ProductStoreApp.exe
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\ProductStoreApp.deps.json
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\ProductStoreApp.runtimeconfig.json
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\ProductStoreApp.dll
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\bin\Debug\net8.0\ProductStoreApp.pdb
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.AssemblyInfoInputs.cache
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.AssemblyInfo.cs
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.csproj.CoreCompileInputs.cache
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.dll
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\refint\ProductStoreApp.dll
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.pdb
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ProductStoreApp.genruntimeconfig.cache
+C:\Users\anly.s\source\repos\ProductStoreApp\ProductStoreApp\obj\Debug\net8.0\ref\ProductStoreApp.dll
